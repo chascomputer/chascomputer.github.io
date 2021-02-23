@@ -1,3 +1,8 @@
+html {height: 100%;}
+body {min-height: 100%;}
+h1,h2,h3,h4,h5 { color: #071e22; font-weight: bold;}
+p { font-size: 1.25em; color: #1a5e63; padding: .35em 0 .35em 0; line-height: 1.5em;}
+
 .site_wrapper {max-width: 70%; margin: 0 auto;}
 .logo {padding: 1em;}
 .nav {font-size: 150%;}
@@ -13,13 +18,16 @@
 .hero h2 {font-weight: bold; font-size: 250%;}
 
 .page-hero {background: linear-gradient(0deg, rgba(2,0,36,1) 0%, rgba(0,0,0,0.5046219171262255) 35%, rgba(0,6,8,0.09285721124387258) 100%), url('../img/routerbg.jpg') no-repeat;  background-size: cover; padding: 5em; color: #fff;}
-.page-hero h2 {font-weight: bold; font-size: 250%;}
+.page-hero h2 {font-weight: bold; font-size: 250%; color: #fff;}
 
-.payment-info {padding: 1em; color: #fff;}
-.payment-info i {font-size: 2em;}
+.payment-info {padding: 1em;}
+.payment-info i {font-size: 2em; color: #fff;}
+.payment-info p {color: #fff;}
 .col-3point5 {width: 27.75%}
 .col-8point5 {width: 72.25%;}
 .front-content {padding: 2em;}
 .front-content h2 {font-weight: bold;}
 .front-content p {font-size: 120%;}
 .main-content {padding: 2em;}
+
+.list-services {font-size: 150%;}
