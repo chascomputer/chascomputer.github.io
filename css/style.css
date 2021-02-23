@@ -15,7 +15,8 @@ p { font-size: 1.25em; color: #1a5e63; padding: .35em 0 .35em 0; line-height: 1.
 .main-content {padding: 2em;}
 
 .hero {background: linear-gradient(0deg, rgba(2,0,36,1) 0%, rgba(0,0,0,0.5046219171262255) 35%, rgba(0,6,8,0.09285721124387258) 100%), url('../img/routerbg.jpg') no-repeat;  background-size: cover; padding: 12em; color: #fff;}
-.hero h2 {font-weight: bold; font-size: 250%;}
+.hero h2 {font-weight: bold; font-size: 250%; color: #fff;}
+.hero p {color: #fff;}
 
 .page-hero {background: linear-gradient(0deg, rgba(2,0,36,1) 0%, rgba(0,0,0,0.5046219171262255) 35%, rgba(0,6,8,0.09285721124387258) 100%), url('../img/routerbg.jpg') no-repeat;  background-size: cover; padding: 5em; color: #fff;}
 .page-hero h2 {font-weight: bold; font-size: 250%; color: #fff;}
