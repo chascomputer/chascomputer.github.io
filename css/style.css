@@ -1,0 +1,16 @@
+.site_wrapper {max-width: 70%; margin: 0 auto;}
+.logo {padding: 1em;}
+.nav {font-size: 150%;}
+.nav-link {background: red; color: #fff; font-weight: bold; border-bottom: 1px dotted white; }
+.side-menu {padding: 1em; background: red;}
+.help-email {font-weight: bold; text-align: center; padding: 0.5em; border: 2px solid red; color: #fff;}
+.main-content {background: #eee;}
+.hero {background: linear-gradient(0deg, rgba(2,0,36,1) 0%, rgba(0,0,0,0.5046219171262255) 35%, rgba(0,6,8,0.09285721124387258) 100%), url('../img/routerbg.jpg') no-repeat;  background-size: cover; padding: 12em; color: #fff;}
+.hero h2 {font-weight: bold;}
+.payment-info {padding: 1em; color: #fff;}
+.payment-info i {font-size: 2em;}
+.col-3point5 {width: 27.75%}
+.col-8point5 {width: 72.25%;}
+.front-content {padding: 2em;}
+.front-content h2 {font-weight: bold;}
+.front-content p {font-size: 120%;}
